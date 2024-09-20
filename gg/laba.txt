@@ -1,0 +1,738 @@
+NOMBER 4
+
+	Microsoft Windows [Version 10.0.22631.4037]
+(c) Š®à¯®à æ¨ï Œ ©ªà®á®äâ (Microsoft Corporation). ‚á¥ ¯à ¢  § é¨é¥­ë.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>COPY CON spisok.txt
+€«¥ªá¥¥¢ ’¨¬ãà
+˜ã¬ ª®¢  Ž«ì£ 
+¨ªã«¨­ ‚« ¤
+Šã§­¥æ®¢ €àâ¥¬^Z
+‘ª®¯¨à®¢ ­® ä ©«®¢:         1.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>type spisok.txt
+€«¥ªá¥¥¢ ’¨¬ãà
+˜ã¬ ª®¢  Ž«ì£ 
+¨ªã«¨­ ‚« ¤
+Šã§­¥æ®¢ €àâ¥¬
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>sort spisok.txt /Output spisok2.txt
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>type spisok2.txt
+€«¥ªá¥¥¢ ’¨¬ãà
+Šã§­¥æ®¢ €àâ¥¬
+¨ªã«¨­ ‚« ¤
+˜ã¬ ª®¢  Ž«ì£ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOMBER 5
+
+	C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>Copy /? > spravka.txt
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>XCopy /? > spravka2.txt
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>DIR /? > spravka3.txt
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>Copy spravka.txt + spravka2.txt + spravka3.txt
+spravka.txt
+spravka2.txt
+spravka3.txt
+‘ª®¯¨à®¢ ­® ä ©«®¢:         1.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>type spravka.txt
+Š®¯¨à®¢ ­¨¥ ®¤­®£® ¨«¨ ­¥áª®«ìª¨å ä ©«®¢ ¢ ¤àã£®¥ ¬¥áâ®.
+
+COPY [/D] [/V] [/N] [/Y | /-Y] [/Z] [/L] [/A | /B] ¨áâ®ç­¨ª [/A | /B]
+     [+ ¨áâ®ç­¨ª [/A | /B] [+ ...]] [à¥§ã«ìâ â [/A | /B]]
+
+  ¨áâ®ç­¨ª     ˆ¬¥­  ®¤­®£® ¨«¨ ­¥áª®«ìª¨å ª®¯¨àã¥¬ëå ä ©«®¢.
+  /A           ” ©« ï¢«ï¥âáï â¥ªáâ®¢ë¬ ä ©«®¬ ASCII.
+  /B           ” ©« ï¢«ï¥âáï ¤¢®¨ç­ë¬ ä ©«®¬.
+  /D           “ª §ë¢ ¥â ­  ¢®§¬®¦­®áâì á®§¤ ­¨ï § è¨äà®¢ ­­®£® ä ©« 
+  à¥§ã«ìâ â    Š â «®£ ¨/¨«¨ ¨¬ï ¤«ï ª®­¥ç­ëå ä ©«®¢.
+  /V           à®¢¥àª  ¯à ¢¨«ì­®áâ¨ ª®¯¨à®¢ ­¨ï ä ©«®¢.
+  /N           ˆá¯®«ì§®¢ ­¨¥, ¥á«¨ ¢®§¬®¦­®, ª®à®âª¨å ¨¬¥­ ¯à¨ ª®¯¨à®¢ ­¨¨
+               ä ©«®¢, çì¨ ¨¬¥­  ­¥ ã¤®¢«¥â¢®àïîâ áâ ­¤ àâã 8.3.
+  /Y           ®¤ ¢«¥­¨¥ § ¯à®á  ¯®¤â¢¥à¦¤¥­¨ï ­  ¯¥à¥§ ¯¨áì áãé¥áâ¢ãîé¥£®
+               ª®­¥ç­®£® ä ©« .
+  /-Y          Ž¡ï§ â¥«ì­ë© § ¯à®á ¯®¤â¢¥à¦¤¥­¨ï ­  ¯¥à¥§ ¯¨áì áãé¥áâ¢ãîé¥£®
+               ª®­¥ç­®£® ä ©« .
+  /Z           Š®¯¨à®¢ ­¨¥ á¥â¥¢ëå ä ©«®¢ á ¢®§®¡­®¢«¥­¨¥¬.
+  /L           …á«¨ ¨áâ®ç­¨ª ï¢«ï¥âáï á¨¬¢®«¨ç¥áª®© ááë«ª®©, ª®¯¨à®¢ ­¨¥
+               ááë«ª¨ ¢¬¥áâ® à¥ «ì­®£® ä ©« , ­  ª®â®àë© ãª §ë¢ ¥â ááë«ª .
+
+Š«îç /Y ¬®¦­® ãáâ ­®¢¨âì ç¥à¥§ ¯¥à¥¬¥­­ãî áà¥¤ë COPYCMD.
+Š«îç /-Y ª®¬ ­¤­®© áâà®ª¨ ¯¥à¥®¯à¥¤¥«ï¥â â ªãî ãáâ ­®¢ªã.
+® ã¬®«ç ­¨î âà¥¡ã¥âáï ¯®¤â¢¥à¦¤¥­¨¥, ¥á«¨ â®«ìª® ª®¬ ­¤  COPY
+­¥ ¢ë¯®«­ï¥âáï ¢ ¯ ª¥â­®¬ ä ©«¥.
+
+—â®¡ë ®¡ê¥¤¨­¨âì ä ©«ë, ãª ¦¨â¥ ®¤¨­ ª®­¥ç­ë© ¨ ­¥áª®«ìª® ¨áå®¤­ëå ä ©«®¢,
+¨á¯®«ì§ãï ¯®¤áâ ­®¢®ç­ë¥ §­ ª¨ ¨«¨ ä®à¬ â "ä ©«1+ä ©«2+ä ©«3+...".
+Êîïèðóåò ôàéëû è äåðåâüÿ êàòàëîãîâ.
+
+XCOPY èñòî÷íèê [íàçíà÷åíèå] [/A | /M] [/D[:äàòà]] [/P] [/S [/E]] [/V] [/W]
+                           [/C] [/I] [/-I] [/Q] [/F] [/L] [/G] [/H] [/R] [/T]
+                           [/U] [/K] [/N] [/O] [/X] [/Y] [/-Y] [/Z] [/B] [/J]
+                           [/EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...] [/COMPRESS]
+
+  èñòî÷íèê       Óêàçûâàåò ôàéëû, êîòîðûå íóæíî ñêîïèðîâàòü.
+  íàçíà÷åíèå     Óêàçûâàåò ðàñïîëîæåíèå è (èëè) èìåíà íîâûõ ôàéëîâ.
+  /A           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               ñàì àòðèáóò ïðè ýòîì íå èçìåíÿåòñÿ.
+  /M           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               àòðèáóò àðõèâàöèè îòêëþ÷àåòñÿ.
+  /D:m-d-y     Êîïèðóåò ôàéëû, èçìåíåííûå íå ðàíåå óêàçàííîé äàòû.
+               Åñëè äàòà íå óêàçàíà, çàìåíÿþòñÿ òîëüêî êîíå÷íûå ôàéëû
+               ñ áîëåå ðàííåé äàòîé, ÷åì ó èñõîäíûõ ôàéëîâ.
+  /EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...
+               Óêàçûâàåò ñïèñîê ôàéëîâ, ñîäåðæàùèõ ñòðîêè.  Êàæäàÿ ñòðîêà
+               äîëæíà ðàñïîëàãàòüñÿ â îòäåëüíîé ñòðîêå â ôàéëàõ.  Åñëè êàêàÿ-ëèáî
+               èç ñòðîê ñîâïàäàåò ñ ëþáîé ÷àñòüþ àáñîëþòíîãî ïóòè ê êîïèðóåìîìó
+               ôàéëó, òàêîé ôàéë èñêëþ÷àåòñÿ èç îïåðàöèè êîïèðîâàíèÿ.  Íàïðèìåð,
+               ïðè óêàçàíèè ñòðîêè \obj\ èëè .obj áóäóò èñêëþ÷åíû
+               âñå ôàéëû èç êàòàëîãà obj èëè âñå ôàéëû ñ ðàñøèðåíèåì
+               OBJ ñîîòâåòñòâåííî.
+  /P           Âûâîäèò çàïðîñû ïåðåä ñîçäàíèåì êàæäîãî êîíå÷íîãî ôàéëà.
+  /S           Êîïèðóåò òîëüêî íåïóñòûå êàòàëîãè ñ ïîäêàòàëîãàìè.
+  /E           Êîïèðóåò êàòàëîãè ñ ïîäêàòàëîãàìè, âêëþ÷àÿ ïóñòûå.
+               Ýêâèâàëåíò ñî÷åòàíèÿ ïàðàìåòðîâ /S /E. Ìîæíî èñïîëüçîâàòü äëÿ èçìåíåíèÿ ïàðàìåòðà /T.
+  /V           Ïðîâåðÿåò ðàçìåð êàæäîãî íîâîãî ôàéëà.
+  /W           Âûâîäèò çàïðîñ íà íàæàòèå êëàâèøè ïåðåä êîïèðîâàíèåì.
+  /C           Ïðîäîëæàåò êîïèðîâàíèå âíå çàâèñèìîñòè îò íàëè÷èÿ îøèáîê.
+  /I           Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ íåñêîëüêî ôàéëîâ,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ êàòàëîã.
+  /-I          Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ îäèí óêàçàííûé ôàéë,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ ôàéë.
+  /Q           Çàïðåùàåò îòîáðàæåíèå èìåí êîïèðóåìûõ ôàéëîâ.
+  /F           Îòîáðàæàåò ïîëíûå èìåíà èñõîäíûõ è êîíå÷íûõ ôàéëîâ âî âðåìÿ êîïèðîâàíèÿ.
+  /L           Îòîáðàæàåò êîïèðóåìûå ôàéëû.
+  /G           Ðàçðåøàåò êîïèðîâàíèå çàøèôðîâàííûõ ôàéëîâ â ïóíêò íàçíà÷åíèÿ,
+               íå ïîääåðæèâàþùèé øèôðîâàíèå.
+  /H           Êîïèðóåò ñêðûòûå è ñèñòåìíûå ôàéëû (ñðåäè ïðî÷èõ).
+  /R           Ðàçðåøàåò çàìåíó ôàéëîâ, ïðåäíàçíà÷åííûõ òîëüêî äëÿ ÷òåíèÿ.
+  /T           Ñîçäàåò ñòðóêòóðó êàòàëîãîâ áåç êîïèðîâàíèÿ ôàéëîâ. Íå
+               âêëþ÷àåò ïóñòûå êàòàëîãè è ïîäêàòàëîãè. /T /E âêëþ÷àåò
+               ïóñòûå êàòàëîãè è ïîäêàòàëîãè.
+  /U           Êîïèðóåò òîëüêî ôàéëû, óæå èìåþùèåñÿ â ïóíêòå íàçíà÷åíèÿ.
+  /K           Êîïèðóåò àòðèáóòû. Ïðè èñïîëüçîâàíèè êîìàíäû XÑOPY îáû÷íî ñáðàñûâàþòñÿ àòðèáóòû "òîëüêî äëÿ ÷òåíèÿ".
+  /N           Èñïîëüçóåò êîðîòêèå èìåíà ïðè êîïèðîâàíèè.
+  /O           Êîïèðóåò ñâåäåíèÿ î âëàäåëüöå è äàííûå ACL.
+  /X           Êîïèðóåò ïàðàìåòðû àóäèòà ôàéëîâ (òðåáóåòñÿ ïàðàìåòð /O).
+  /Y           Ïîäàâëÿåò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /-Y          Âûâîäèò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /Z           Êîïèðóåò ñåòåâûå ôàéëû ñ âîçîáíîâëåíèåì.
+  /B           Êîïèðóåò ñèìâîëüíóþ ññûëêó âìåñòî åå öåëåâîãî îáúåêòà.
+  /J           Êîïèðóåò ñ èñïîëüçîâàíèåì ââîäà-âûâîäà áåç áóôåðèçàöèè. Ðåêîìåíäóåòñÿ äëÿ î÷åíü áîëüøèõ ôàéëîâ.
+  /COMPRESS    Çàïðîñ ñåòåâîãî ñæàòèÿ âî âðåìÿ ïåðåäà÷è ôàéëà, åñëè
+               ïðèìåíèìî.
+  /SPARSE      Ñîõðàíÿåò ðàçðåæåííîå ñîñòîÿíèå ïðè êîïèðîâàíèè ðàçðåæåííîãî ôàéëà.
+
+Ïàðàìåòð /Y ìîæíî óñòàíîâèòü çàðàíåå ÷åðåç ïåðåìåííóþ ñðåäû COPYCMD.
+Ïàðàìåòð /-Y êîìàíäíîé ñòðîêè ïåðåîïðåäåëÿåò òàêóþ óñòàíîâêó.
+‚ë¢®¤ á¯¨áª  ä ©«®¢ ¨ ¯®¤ª â «®£®¢ ¢ ãª § ­­®¬ ª â «®£¥.
+
+DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
+  [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]
+
+  [drive:][path][filename]
+              „¨áª, ª â «®£ ¨«¨ ¨¬¥­  ä ©«®¢ ¤«ï ¢ª«îç¥­¨ï ¢ á¯¨á®ª.
+
+  /A          Žâ®¡à ¦¥­¨¥ ä ©«®¢ á ãª § ­­ë¬¨  âà¨¡ãâ ¬¨.
+   âà¨¡ãâë   D  Š â «®£¨.                R  ” ©«ë, ¤®áâã¯­ë¥ â®«ìª® ¤«ï çâ¥­¨ï
+               H  ‘ªàëâë¥ ä ©«ë               A  ” ©«ë, £®â®¢ë¥ ¤«ï  àå¨¢¨à®¢ ­¨ï
+               S  ‘¨áâ¥¬­ë¥ ä ©«ë               I  ” ©«ë á ­¥¨­¤¥ªá¨à®¢ ­­ë¬ á®¤¥à¦¨¬ë¬
+               L  ’®çª¨ ¯®¢â®à­®© ®¡à ¡®âª¨             O  €¢â®­®¬­ë¥ ä ©«ë
+               -  à¥ä¨ªá "-" ¨¬¥¥â §­ ç¥­¨¥ …
+  /B          ‚ë¢®¤ â®«ìª® ¨¬¥­ ä ©«®¢.
+  /C          à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢ ¯à¨ ¢ë¢®¤¥ à §¬¥à®¢ ä ©«®¢.
+              ˆá¯®«ì§ã¥âáï ¯® ã¬®«ç ­¨î.  —â®¡ë ®âª«îç¨âì ¯à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢, § ¤ ©â¥ ª«îç /-C.
+  /D          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª¨å áâ®«¡æ å á á®àâ¨à®¢ª®© ¯® áâ®«¡æ ¬.
+  /L          ˆá¯®«ì§®¢ âì ­¨¦­¨© à¥£¨áâà.
+  /N          ®¢ë© ä®à¬ â ¤«¨­­®£® á¯¨áª , ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï ¢ ªà ©­¥¬ ¯à ¢®¬ áâ®«¡æ¥.
+  /O          ‘®àâ¨à®¢ª  á¯¨áª  ®â®¡à ¦ ¥¬ëå ä ©«®¢.
+  sortorder    N  ® ¨¬¥­¨ (¯®  «ä ¢¨âã)       S  ® à §¬¥àã (­ ç¨­ ï á ¬¨­¨¬ «ì­®£®)
+               E  ® à áè¨à¥­¨î (¯®  «ä ¢¨âã)  D  ® ¤ â¥ ¨ ¢à¥¬¥­¨ (­ ç¨­ ï á á ¬®£® áâ à®£®)
+               G   ç âì á¯¨á®ª á ª â «®£®¢    -  à¥ä¨ªá "-" ®¡à é ¥â ¯®àï¤®ª
+  /P           ã§  ¯®á«¥ § ¯®«­¥­¨ï ª ¦¤®£® íªà ­ .
+  /Q          ‚ë¢®¤ á¢¥¤¥­¨© ® ¢« ¤¥«ìæ¥ ä ©« .
+  /R          Žâ®¡à ¦¥­¨¥  «ìâ¥à­ â¨¢­ëå ¯®â®ª®¢ ¤ ­­ëå íâ®£® ä ©« .
+  /S          Žâ®¡à ¦¥­¨¥ ä ©«®¢ ¨§ ãª § ­­®£® ª â «®£  ¨ ¢á¥å ¥£® ¯®¤ª â «®£®¢.
+  /T          ‚ë¡®à ¯®«ï ¢à¥¬¥­¨ ¤«ï á®àâ¨à®¢ª¨.
+  timefield   C  ‘®§¤ ­¨¥
+              A  ®á«¥¤­¥¥ ¨á¯®«ì§®¢ ­¨¥
+              W  ®á«¥¤­¥¥ ¨§¬¥­¥­¨¥
+  /W          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª® áâ®«¡æ®¢.
+  /X          Žâ®¡à ¦¥­¨¥ ª®à®âª¨å ¨¬¥­ ¤«ï ä ©«®¢, çì¨ ¨¬¥­  ­¥ á®®â¢¥âáâ¢ãîâ áâ ­¤ àâã 8.3.
+              ”®à¬ â  ­ «®£¨ç¥­ ¢ë¢®¤ã á ª«îç®¬ /N, ­® ª®à®âª¨¥
+              ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï á«¥¢  ®â ¤«¨­­ëå. …á«¨ ª®à®âª®£® ¨¬¥­¨ ã
+              ä ©«  ­¥â, ¢¬¥áâ® ­¥£® ¢ë¢®¤ïâáï ¯à®¡¥«ë.
+  /4          ‚ë¢®¤ ­®¬¥à  £®¤  ¢ ç¥âëà¥å§­ ç­®¬ ä®à¬ â¥
+
+‘â ­¤ àâ­ë© ­ ¡®à ª«îç¥© ¬®¦­® § ¯¨á âì ¢ ¯¥à¥¬¥­­ãî áà¥¤ë DIRCMD.  „«ï ®â¬¥­ë
+¨å ¤¥©áâ¢¨ï ¢¢¥¤¨â¥ ¢ ª®¬ ­¤¥ â¥ ¦¥ ª«îç¨ á ¯à¥ä¨ªá®¬ "-", ­ ¯à¨¬¥à: /-W.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>Copy spravka.txt + spravka2.txt + spravka3.txt spravka4.txt
+spravka.txt
+spravka2.txt
+spravka3.txt
+‘ª®¯¨à®¢ ­® ä ©«®¢:         1.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>type spravka4.txt
+Š®¯¨à®¢ ­¨¥ ®¤­®£® ¨«¨ ­¥áª®«ìª¨å ä ©«®¢ ¢ ¤àã£®¥ ¬¥áâ®.
+
+COPY [/D] [/V] [/N] [/Y | /-Y] [/Z] [/L] [/A | /B] ¨áâ®ç­¨ª [/A | /B]
+     [+ ¨áâ®ç­¨ª [/A | /B] [+ ...]] [à¥§ã«ìâ â [/A | /B]]
+
+  ¨áâ®ç­¨ª     ˆ¬¥­  ®¤­®£® ¨«¨ ­¥áª®«ìª¨å ª®¯¨àã¥¬ëå ä ©«®¢.
+  /A           ” ©« ï¢«ï¥âáï â¥ªáâ®¢ë¬ ä ©«®¬ ASCII.
+  /B           ” ©« ï¢«ï¥âáï ¤¢®¨ç­ë¬ ä ©«®¬.
+  /D           “ª §ë¢ ¥â ­  ¢®§¬®¦­®áâì á®§¤ ­¨ï § è¨äà®¢ ­­®£® ä ©« 
+  à¥§ã«ìâ â    Š â «®£ ¨/¨«¨ ¨¬ï ¤«ï ª®­¥ç­ëå ä ©«®¢.
+  /V           à®¢¥àª  ¯à ¢¨«ì­®áâ¨ ª®¯¨à®¢ ­¨ï ä ©«®¢.
+  /N           ˆá¯®«ì§®¢ ­¨¥, ¥á«¨ ¢®§¬®¦­®, ª®à®âª¨å ¨¬¥­ ¯à¨ ª®¯¨à®¢ ­¨¨
+               ä ©«®¢, çì¨ ¨¬¥­  ­¥ ã¤®¢«¥â¢®àïîâ áâ ­¤ àâã 8.3.
+  /Y           ®¤ ¢«¥­¨¥ § ¯à®á  ¯®¤â¢¥à¦¤¥­¨ï ­  ¯¥à¥§ ¯¨áì áãé¥áâ¢ãîé¥£®
+               ª®­¥ç­®£® ä ©« .
+  /-Y          Ž¡ï§ â¥«ì­ë© § ¯à®á ¯®¤â¢¥à¦¤¥­¨ï ­  ¯¥à¥§ ¯¨áì áãé¥áâ¢ãîé¥£®
+               ª®­¥ç­®£® ä ©« .
+  /Z           Š®¯¨à®¢ ­¨¥ á¥â¥¢ëå ä ©«®¢ á ¢®§®¡­®¢«¥­¨¥¬.
+  /L           …á«¨ ¨áâ®ç­¨ª ï¢«ï¥âáï á¨¬¢®«¨ç¥áª®© ááë«ª®©, ª®¯¨à®¢ ­¨¥
+               ááë«ª¨ ¢¬¥áâ® à¥ «ì­®£® ä ©« , ­  ª®â®àë© ãª §ë¢ ¥â ááë«ª .
+
+Š«îç /Y ¬®¦­® ãáâ ­®¢¨âì ç¥à¥§ ¯¥à¥¬¥­­ãî áà¥¤ë COPYCMD.
+Š«îç /-Y ª®¬ ­¤­®© áâà®ª¨ ¯¥à¥®¯à¥¤¥«ï¥â â ªãî ãáâ ­®¢ªã.
+® ã¬®«ç ­¨î âà¥¡ã¥âáï ¯®¤â¢¥à¦¤¥­¨¥, ¥á«¨ â®«ìª® ª®¬ ­¤  COPY
+­¥ ¢ë¯®«­ï¥âáï ¢ ¯ ª¥â­®¬ ä ©«¥.
+
+—â®¡ë ®¡ê¥¤¨­¨âì ä ©«ë, ãª ¦¨â¥ ®¤¨­ ª®­¥ç­ë© ¨ ­¥áª®«ìª® ¨áå®¤­ëå ä ©«®¢,
+¨á¯®«ì§ãï ¯®¤áâ ­®¢®ç­ë¥ §­ ª¨ ¨«¨ ä®à¬ â "ä ©«1+ä ©«2+ä ©«3+...".
+Êîïèðóåò ôàéëû è äåðåâüÿ êàòàëîãîâ.
+
+XCOPY èñòî÷íèê [íàçíà÷åíèå] [/A | /M] [/D[:äàòà]] [/P] [/S [/E]] [/V] [/W]
+                           [/C] [/I] [/-I] [/Q] [/F] [/L] [/G] [/H] [/R] [/T]
+                           [/U] [/K] [/N] [/O] [/X] [/Y] [/-Y] [/Z] [/B] [/J]
+                           [/EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...] [/COMPRESS]
+
+  èñòî÷íèê       Óêàçûâàåò ôàéëû, êîòîðûå íóæíî ñêîïèðîâàòü.
+  íàçíà÷åíèå     Óêàçûâàåò ðàñïîëîæåíèå è (èëè) èìåíà íîâûõ ôàéëîâ.
+  /A           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               ñàì àòðèáóò ïðè ýòîì íå èçìåíÿåòñÿ.
+  /M           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               àòðèáóò àðõèâàöèè îòêëþ÷àåòñÿ.
+  /D:m-d-y     Êîïèðóåò ôàéëû, èçìåíåííûå íå ðàíåå óêàçàííîé äàòû.
+               Åñëè äàòà íå óêàçàíà, çàìåíÿþòñÿ òîëüêî êîíå÷íûå ôàéëû
+               ñ áîëåå ðàííåé äàòîé, ÷åì ó èñõîäíûõ ôàéëîâ.
+  /EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...
+               Óêàçûâàåò ñïèñîê ôàéëîâ, ñîäåðæàùèõ ñòðîêè.  Êàæäàÿ ñòðîêà
+               äîëæíà ðàñïîëàãàòüñÿ â îòäåëüíîé ñòðîêå â ôàéëàõ.  Åñëè êàêàÿ-ëèáî
+               èç ñòðîê ñîâïàäàåò ñ ëþáîé ÷àñòüþ àáñîëþòíîãî ïóòè ê êîïèðóåìîìó
+               ôàéëó, òàêîé ôàéë èñêëþ÷àåòñÿ èç îïåðàöèè êîïèðîâàíèÿ.  Íàïðèìåð,
+               ïðè óêàçàíèè ñòðîêè \obj\ èëè .obj áóäóò èñêëþ÷åíû
+               âñå ôàéëû èç êàòàëîãà obj èëè âñå ôàéëû ñ ðàñøèðåíèåì
+               OBJ ñîîòâåòñòâåííî.
+  /P           Âûâîäèò çàïðîñû ïåðåä ñîçäàíèåì êàæäîãî êîíå÷íîãî ôàéëà.
+  /S           Êîïèðóåò òîëüêî íåïóñòûå êàòàëîãè ñ ïîäêàòàëîãàìè.
+  /E           Êîïèðóåò êàòàëîãè ñ ïîäêàòàëîãàìè, âêëþ÷àÿ ïóñòûå.
+               Ýêâèâàëåíò ñî÷åòàíèÿ ïàðàìåòðîâ /S /E. Ìîæíî èñïîëüçîâàòü äëÿ èçìåíåíèÿ ïàðàìåòðà /T.
+  /V           Ïðîâåðÿåò ðàçìåð êàæäîãî íîâîãî ôàéëà.
+  /W           Âûâîäèò çàïðîñ íà íàæàòèå êëàâèøè ïåðåä êîïèðîâàíèåì.
+  /C           Ïðîäîëæàåò êîïèðîâàíèå âíå çàâèñèìîñòè îò íàëè÷èÿ îøèáîê.
+  /I           Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ íåñêîëüêî ôàéëîâ,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ êàòàëîã.
+  /-I          Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ îäèí óêàçàííûé ôàéë,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ ôàéë.
+  /Q           Çàïðåùàåò îòîáðàæåíèå èìåí êîïèðóåìûõ ôàéëîâ.
+  /F           Îòîáðàæàåò ïîëíûå èìåíà èñõîäíûõ è êîíå÷íûõ ôàéëîâ âî âðåìÿ êîïèðîâàíèÿ.
+  /L           Îòîáðàæàåò êîïèðóåìûå ôàéëû.
+  /G           Ðàçðåøàåò êîïèðîâàíèå çàøèôðîâàííûõ ôàéëîâ â ïóíêò íàçíà÷åíèÿ,
+               íå ïîääåðæèâàþùèé øèôðîâàíèå.
+  /H           Êîïèðóåò ñêðûòûå è ñèñòåìíûå ôàéëû (ñðåäè ïðî÷èõ).
+  /R           Ðàçðåøàåò çàìåíó ôàéëîâ, ïðåäíàçíà÷åííûõ òîëüêî äëÿ ÷òåíèÿ.
+  /T           Ñîçäàåò ñòðóêòóðó êàòàëîãîâ áåç êîïèðîâàíèÿ ôàéëîâ. Íå
+               âêëþ÷àåò ïóñòûå êàòàëîãè è ïîäêàòàëîãè. /T /E âêëþ÷àåò
+               ïóñòûå êàòàëîãè è ïîäêàòàëîãè.
+  /U           Êîïèðóåò òîëüêî ôàéëû, óæå èìåþùèåñÿ â ïóíêòå íàçíà÷åíèÿ.
+  /K           Êîïèðóåò àòðèáóòû. Ïðè èñïîëüçîâàíèè êîìàíäû XÑOPY îáû÷íî ñáðàñûâàþòñÿ àòðèáóòû "òîëüêî äëÿ ÷òåíèÿ".
+  /N           Èñïîëüçóåò êîðîòêèå èìåíà ïðè êîïèðîâàíèè.
+  /O           Êîïèðóåò ñâåäåíèÿ î âëàäåëüöå è äàííûå ACL.
+  /X           Êîïèðóåò ïàðàìåòðû àóäèòà ôàéëîâ (òðåáóåòñÿ ïàðàìåòð /O).
+  /Y           Ïîäàâëÿåò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /-Y          Âûâîäèò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /Z           Êîïèðóåò ñåòåâûå ôàéëû ñ âîçîáíîâëåíèåì.
+  /B           Êîïèðóåò ñèìâîëüíóþ ññûëêó âìåñòî åå öåëåâîãî îáúåêòà.
+  /J           Êîïèðóåò ñ èñïîëüçîâàíèåì ââîäà-âûâîäà áåç áóôåðèçàöèè. Ðåêîìåíäóåòñÿ äëÿ î÷åíü áîëüøèõ ôàéëîâ.
+  /COMPRESS    Çàïðîñ ñåòåâîãî ñæàòèÿ âî âðåìÿ ïåðåäà÷è ôàéëà, åñëè
+               ïðèìåíèìî.
+  /SPARSE      Ñîõðàíÿåò ðàçðåæåííîå ñîñòîÿíèå ïðè êîïèðîâàíèè ðàçðåæåííîãî ôàéëà.
+
+Ïàðàìåòð /Y ìîæíî óñòàíîâèòü çàðàíåå ÷åðåç ïåðåìåííóþ ñðåäû COPYCMD.
+Ïàðàìåòð /-Y êîìàíäíîé ñòðîêè ïåðåîïðåäåëÿåò òàêóþ óñòàíîâêó.
+‚ë¢®¤ á¯¨áª  ä ©«®¢ ¨ ¯®¤ª â «®£®¢ ¢ ãª § ­­®¬ ª â «®£¥.
+
+DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
+  [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]
+
+  [drive:][path][filename]
+              „¨áª, ª â «®£ ¨«¨ ¨¬¥­  ä ©«®¢ ¤«ï ¢ª«îç¥­¨ï ¢ á¯¨á®ª.
+
+  /A          Žâ®¡à ¦¥­¨¥ ä ©«®¢ á ãª § ­­ë¬¨  âà¨¡ãâ ¬¨.
+   âà¨¡ãâë   D  Š â «®£¨.                R  ” ©«ë, ¤®áâã¯­ë¥ â®«ìª® ¤«ï çâ¥­¨ï
+               H  ‘ªàëâë¥ ä ©«ë               A  ” ©«ë, £®â®¢ë¥ ¤«ï  àå¨¢¨à®¢ ­¨ï
+               S  ‘¨áâ¥¬­ë¥ ä ©«ë               I  ” ©«ë á ­¥¨­¤¥ªá¨à®¢ ­­ë¬ á®¤¥à¦¨¬ë¬
+               L  ’®çª¨ ¯®¢â®à­®© ®¡à ¡®âª¨             O  €¢â®­®¬­ë¥ ä ©«ë
+               -  à¥ä¨ªá "-" ¨¬¥¥â §­ ç¥­¨¥ …
+  /B          ‚ë¢®¤ â®«ìª® ¨¬¥­ ä ©«®¢.
+  /C          à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢ ¯à¨ ¢ë¢®¤¥ à §¬¥à®¢ ä ©«®¢.
+              ˆá¯®«ì§ã¥âáï ¯® ã¬®«ç ­¨î.  —â®¡ë ®âª«îç¨âì ¯à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢, § ¤ ©â¥ ª«îç /-C.
+  /D          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª¨å áâ®«¡æ å á á®àâ¨à®¢ª®© ¯® áâ®«¡æ ¬.
+  /L          ˆá¯®«ì§®¢ âì ­¨¦­¨© à¥£¨áâà.
+  /N          ®¢ë© ä®à¬ â ¤«¨­­®£® á¯¨áª , ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï ¢ ªà ©­¥¬ ¯à ¢®¬ áâ®«¡æ¥.
+  /O          ‘®àâ¨à®¢ª  á¯¨áª  ®â®¡à ¦ ¥¬ëå ä ©«®¢.
+  sortorder    N  ® ¨¬¥­¨ (¯®  «ä ¢¨âã)       S  ® à §¬¥àã (­ ç¨­ ï á ¬¨­¨¬ «ì­®£®)
+               E  ® à áè¨à¥­¨î (¯®  «ä ¢¨âã)  D  ® ¤ â¥ ¨ ¢à¥¬¥­¨ (­ ç¨­ ï á á ¬®£® áâ à®£®)
+               G   ç âì á¯¨á®ª á ª â «®£®¢    -  à¥ä¨ªá "-" ®¡à é ¥â ¯®àï¤®ª
+  /P           ã§  ¯®á«¥ § ¯®«­¥­¨ï ª ¦¤®£® íªà ­ .
+  /Q          ‚ë¢®¤ á¢¥¤¥­¨© ® ¢« ¤¥«ìæ¥ ä ©« .
+  /R          Žâ®¡à ¦¥­¨¥  «ìâ¥à­ â¨¢­ëå ¯®â®ª®¢ ¤ ­­ëå íâ®£® ä ©« .
+  /S          Žâ®¡à ¦¥­¨¥ ä ©«®¢ ¨§ ãª § ­­®£® ª â «®£  ¨ ¢á¥å ¥£® ¯®¤ª â «®£®¢.
+  /T          ‚ë¡®à ¯®«ï ¢à¥¬¥­¨ ¤«ï á®àâ¨à®¢ª¨.
+  timefield   C  ‘®§¤ ­¨¥
+              A  ®á«¥¤­¥¥ ¨á¯®«ì§®¢ ­¨¥
+              W  ®á«¥¤­¥¥ ¨§¬¥­¥­¨¥
+  /W          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª® áâ®«¡æ®¢.
+  /X          Žâ®¡à ¦¥­¨¥ ª®à®âª¨å ¨¬¥­ ¤«ï ä ©«®¢, çì¨ ¨¬¥­  ­¥ á®®â¢¥âáâ¢ãîâ áâ ­¤ àâã 8.3.
+              ”®à¬ â  ­ «®£¨ç¥­ ¢ë¢®¤ã á ª«îç®¬ /N, ­® ª®à®âª¨¥
+              ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï á«¥¢  ®â ¤«¨­­ëå. …á«¨ ª®à®âª®£® ¨¬¥­¨ ã
+              ä ©«  ­¥â, ¢¬¥áâ® ­¥£® ¢ë¢®¤ïâáï ¯à®¡¥«ë.
+  /4          ‚ë¢®¤ ­®¬¥à  £®¤  ¢ ç¥âëà¥å§­ ç­®¬ ä®à¬ â¥
+
+‘â ­¤ àâ­ë© ­ ¡®à ª«îç¥© ¬®¦­® § ¯¨á âì ¢ ¯¥à¥¬¥­­ãî áà¥¤ë DIRCMD.  „«ï ®â¬¥­ë
+¨å ¤¥©áâ¢¨ï ¢¢¥¤¨â¥ ¢ ª®¬ ­¤¥ â¥ ¦¥ ª«îç¨ á ¯à¥ä¨ªá®¬ "-", ­ ¯à¨¬¥à: /-W.
+Êîïèðóåò ôàéëû è äåðåâüÿ êàòàëîãîâ.
+
+XCOPY èñòî÷íèê [íàçíà÷åíèå] [/A | /M] [/D[:äàòà]] [/P] [/S [/E]] [/V] [/W]
+                           [/C] [/I] [/-I] [/Q] [/F] [/L] [/G] [/H] [/R] [/T]
+                           [/U] [/K] [/N] [/O] [/X] [/Y] [/-Y] [/Z] [/B] [/J]
+                           [/EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...] [/COMPRESS]
+
+  èñòî÷íèê       Óêàçûâàåò ôàéëû, êîòîðûå íóæíî ñêîïèðîâàòü.
+  íàçíà÷åíèå     Óêàçûâàåò ðàñïîëîæåíèå è (èëè) èìåíà íîâûõ ôàéëîâ.
+  /A           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               ñàì àòðèáóò ïðè ýòîì íå èçìåíÿåòñÿ.
+  /M           Êîïèðóåò òîëüêî ôàéëû ñ óñòàíîâëåííûì àòðèáóòîì àðõèâàöèè,
+               àòðèáóò àðõèâàöèè îòêëþ÷àåòñÿ.
+  /D:m-d-y     Êîïèðóåò ôàéëû, èçìåíåííûå íå ðàíåå óêàçàííîé äàòû.
+               Åñëè äàòà íå óêàçàíà, çàìåíÿþòñÿ òîëüêî êîíå÷íûå ôàéëû
+               ñ áîëåå ðàííåé äàòîé, ÷åì ó èñõîäíûõ ôàéëîâ.
+  /EXCLUDE:ôàéë1[+ôàéë2][+ôàéë3]...
+               Óêàçûâàåò ñïèñîê ôàéëîâ, ñîäåðæàùèõ ñòðîêè.  Êàæäàÿ ñòðîêà
+               äîëæíà ðàñïîëàãàòüñÿ â îòäåëüíîé ñòðîêå â ôàéëàõ.  Åñëè êàêàÿ-ëèáî
+               èç ñòðîê ñîâïàäàåò ñ ëþáîé ÷àñòüþ àáñîëþòíîãî ïóòè ê êîïèðóåìîìó
+               ôàéëó, òàêîé ôàéë èñêëþ÷àåòñÿ èç îïåðàöèè êîïèðîâàíèÿ.  Íàïðèìåð,
+               ïðè óêàçàíèè ñòðîêè \obj\ èëè .obj áóäóò èñêëþ÷åíû
+               âñå ôàéëû èç êàòàëîãà obj èëè âñå ôàéëû ñ ðàñøèðåíèåì
+               OBJ ñîîòâåòñòâåííî.
+  /P           Âûâîäèò çàïðîñû ïåðåä ñîçäàíèåì êàæäîãî êîíå÷íîãî ôàéëà.
+  /S           Êîïèðóåò òîëüêî íåïóñòûå êàòàëîãè ñ ïîäêàòàëîãàìè.
+  /E           Êîïèðóåò êàòàëîãè ñ ïîäêàòàëîãàìè, âêëþ÷àÿ ïóñòûå.
+               Ýêâèâàëåíò ñî÷åòàíèÿ ïàðàìåòðîâ /S /E. Ìîæíî èñïîëüçîâàòü äëÿ èçìåíåíèÿ ïàðàìåòðà /T.
+  /V           Ïðîâåðÿåò ðàçìåð êàæäîãî íîâîãî ôàéëà.
+  /W           Âûâîäèò çàïðîñ íà íàæàòèå êëàâèøè ïåðåä êîïèðîâàíèåì.
+  /C           Ïðîäîëæàåò êîïèðîâàíèå âíå çàâèñèìîñòè îò íàëè÷èÿ îøèáîê.
+  /I           Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ íåñêîëüêî ôàéëîâ,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ êàòàëîã.
+  /-I          Åñëè íàçíà÷åíèå íå ñóùåñòâóåò è êîïèðóåòñÿ îäèí óêàçàííûé ôàéë,
+               ñ÷èòàåòñÿ, ÷òî ïóíêòîì íàçíà÷åíèÿ ÿâëÿåòñÿ ôàéë.
+  /Q           Çàïðåùàåò îòîáðàæåíèå èìåí êîïèðóåìûõ ôàéëîâ.
+  /F           Îòîáðàæàåò ïîëíûå èìåíà èñõîäíûõ è êîíå÷íûõ ôàéëîâ âî âðåìÿ êîïèðîâàíèÿ.
+  /L           Îòîáðàæàåò êîïèðóåìûå ôàéëû.
+  /G           Ðàçðåøàåò êîïèðîâàíèå çàøèôðîâàííûõ ôàéëîâ â ïóíêò íàçíà÷åíèÿ,
+               íå ïîääåðæèâàþùèé øèôðîâàíèå.
+  /H           Êîïèðóåò ñêðûòûå è ñèñòåìíûå ôàéëû (ñðåäè ïðî÷èõ).
+  /R           Ðàçðåøàåò çàìåíó ôàéëîâ, ïðåäíàçíà÷åííûõ òîëüêî äëÿ ÷òåíèÿ.
+  /T           Ñîçäàåò ñòðóêòóðó êàòàëîãîâ áåç êîïèðîâàíèÿ ôàéëîâ. Íå
+               âêëþ÷àåò ïóñòûå êàòàëîãè è ïîäêàòàëîãè. /T /E âêëþ÷àåò
+               ïóñòûå êàòàëîãè è ïîäêàòàëîãè.
+  /U           Êîïèðóåò òîëüêî ôàéëû, óæå èìåþùèåñÿ â ïóíêòå íàçíà÷åíèÿ.
+  /K           Êîïèðóåò àòðèáóòû. Ïðè èñïîëüçîâàíèè êîìàíäû XÑOPY îáû÷íî ñáðàñûâàþòñÿ àòðèáóòû "òîëüêî äëÿ ÷òåíèÿ".
+  /N           Èñïîëüçóåò êîðîòêèå èìåíà ïðè êîïèðîâàíèè.
+  /O           Êîïèðóåò ñâåäåíèÿ î âëàäåëüöå è äàííûå ACL.
+  /X           Êîïèðóåò ïàðàìåòðû àóäèòà ôàéëîâ (òðåáóåòñÿ ïàðàìåòð /O).
+  /Y           Ïîäàâëÿåò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /-Y          Âûâîäèò çàïðîñ íà ïîäòâåðæäåíèå ïåðåçàïèñè
+               ñóùåñòâóþùåãî êîíå÷íîãî ôàéëà.
+  /Z           Êîïèðóåò ñåòåâûå ôàéëû ñ âîçîáíîâëåíèåì.
+  /B           Êîïèðóåò ñèìâîëüíóþ ññûëêó âìåñòî åå öåëåâîãî îáúåêòà.
+  /J           Êîïèðóåò ñ èñïîëüçîâàíèåì ââîäà-âûâîäà áåç áóôåðèçàöèè. Ðåêîìåíäóåòñÿ äëÿ î÷åíü áîëüøèõ ôàéëîâ.
+  /COMPRESS    Çàïðîñ ñåòåâîãî ñæàòèÿ âî âðåìÿ ïåðåäà÷è ôàéëà, åñëè
+               ïðèìåíèìî.
+  /SPARSE      Ñîõðàíÿåò ðàçðåæåííîå ñîñòîÿíèå ïðè êîïèðîâàíèè ðàçðåæåííîãî ôàéëà.
+
+Ïàðàìåòð /Y ìîæíî óñòàíîâèòü çàðàíåå ÷åðåç ïåðåìåííóþ ñðåäû COPYCMD.
+Ïàðàìåòð /-Y êîìàíäíîé ñòðîêè ïåðåîïðåäåëÿåò òàêóþ óñòàíîâêó.
+‚ë¢®¤ á¯¨áª  ä ©«®¢ ¨ ¯®¤ª â «®£®¢ ¢ ãª § ­­®¬ ª â «®£¥.
+
+DIR [drive:][path][filename] [/A[[:]attributes]] [/B] [/C] [/D] [/L] [/N]
+  [/O[[:]sortorder]] [/P] [/Q] [/R] [/S] [/T[[:]timefield]] [/W] [/X] [/4]
+
+  [drive:][path][filename]
+              „¨áª, ª â «®£ ¨«¨ ¨¬¥­  ä ©«®¢ ¤«ï ¢ª«îç¥­¨ï ¢ á¯¨á®ª.
+
+  /A          Žâ®¡à ¦¥­¨¥ ä ©«®¢ á ãª § ­­ë¬¨  âà¨¡ãâ ¬¨.
+   âà¨¡ãâë   D  Š â «®£¨.                R  ” ©«ë, ¤®áâã¯­ë¥ â®«ìª® ¤«ï çâ¥­¨ï
+               H  ‘ªàëâë¥ ä ©«ë               A  ” ©«ë, £®â®¢ë¥ ¤«ï  àå¨¢¨à®¢ ­¨ï
+               S  ‘¨áâ¥¬­ë¥ ä ©«ë               I  ” ©«ë á ­¥¨­¤¥ªá¨à®¢ ­­ë¬ á®¤¥à¦¨¬ë¬
+               L  ’®çª¨ ¯®¢â®à­®© ®¡à ¡®âª¨             O  €¢â®­®¬­ë¥ ä ©«ë
+               -  à¥ä¨ªá "-" ¨¬¥¥â §­ ç¥­¨¥ …
+  /B          ‚ë¢®¤ â®«ìª® ¨¬¥­ ä ©«®¢.
+  /C          à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢ ¯à¨ ¢ë¢®¤¥ à §¬¥à®¢ ä ©«®¢.
+              ˆá¯®«ì§ã¥âáï ¯® ã¬®«ç ­¨î.  —â®¡ë ®âª«îç¨âì ¯à¨¬¥­¥­¨¥ à §¤¥«¨â¥«ï £àã¯¯ à §àï¤®¢, § ¤ ©â¥ ª«îç /-C.
+  /D          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª¨å áâ®«¡æ å á á®àâ¨à®¢ª®© ¯® áâ®«¡æ ¬.
+  /L          ˆá¯®«ì§®¢ âì ­¨¦­¨© à¥£¨áâà.
+  /N          ®¢ë© ä®à¬ â ¤«¨­­®£® á¯¨áª , ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï ¢ ªà ©­¥¬ ¯à ¢®¬ áâ®«¡æ¥.
+  /O          ‘®àâ¨à®¢ª  á¯¨áª  ®â®¡à ¦ ¥¬ëå ä ©«®¢.
+  sortorder    N  ® ¨¬¥­¨ (¯®  «ä ¢¨âã)       S  ® à §¬¥àã (­ ç¨­ ï á ¬¨­¨¬ «ì­®£®)
+               E  ® à áè¨à¥­¨î (¯®  «ä ¢¨âã)  D  ® ¤ â¥ ¨ ¢à¥¬¥­¨ (­ ç¨­ ï á á ¬®£® áâ à®£®)
+               G   ç âì á¯¨á®ª á ª â «®£®¢    -  à¥ä¨ªá "-" ®¡à é ¥â ¯®àï¤®ª
+  /P           ã§  ¯®á«¥ § ¯®«­¥­¨ï ª ¦¤®£® íªà ­ .
+  /Q          ‚ë¢®¤ á¢¥¤¥­¨© ® ¢« ¤¥«ìæ¥ ä ©« .
+  /R          Žâ®¡à ¦¥­¨¥  «ìâ¥à­ â¨¢­ëå ¯®â®ª®¢ ¤ ­­ëå íâ®£® ä ©« .
+  /S          Žâ®¡à ¦¥­¨¥ ä ©«®¢ ¨§ ãª § ­­®£® ª â «®£  ¨ ¢á¥å ¥£® ¯®¤ª â «®£®¢.
+  /T          ‚ë¡®à ¯®«ï ¢à¥¬¥­¨ ¤«ï á®àâ¨à®¢ª¨.
+  timefield   C  ‘®§¤ ­¨¥
+              A  ®á«¥¤­¥¥ ¨á¯®«ì§®¢ ­¨¥
+              W  ®á«¥¤­¥¥ ¨§¬¥­¥­¨¥
+  /W          ‚ë¢®¤ á¯¨áª  ¢ ­¥áª®«ìª® áâ®«¡æ®¢.
+  /X          Žâ®¡à ¦¥­¨¥ ª®à®âª¨å ¨¬¥­ ¤«ï ä ©«®¢, çì¨ ¨¬¥­  ­¥ á®®â¢¥âáâ¢ãîâ áâ ­¤ àâã 8.3.
+              ”®à¬ â  ­ «®£¨ç¥­ ¢ë¢®¤ã á ª«îç®¬ /N, ­® ª®à®âª¨¥
+              ¨¬¥­  ä ©«®¢ ¢ë¢®¤ïâáï á«¥¢  ®â ¤«¨­­ëå. …á«¨ ª®à®âª®£® ¨¬¥­¨ ã
+              ä ©«  ­¥â, ¢¬¥áâ® ­¥£® ¢ë¢®¤ïâáï ¯à®¡¥«ë.
+  /4          ‚ë¢®¤ ­®¬¥à  £®¤  ¢ ç¥âëà¥å§­ ç­®¬ ä®à¬ â¥
+
+‘â ­¤ àâ­ë© ­ ¡®à ª«îç¥© ¬®¦­® § ¯¨á âì ¢ ¯¥à¥¬¥­­ãî áà¥¤ë DIRCMD.  „«ï ®â¬¥­ë
+¨å ¤¥©áâ¢¨ï ¢¢¥¤¨â¥ ¢ ª®¬ ­¤¥ â¥ ¦¥ ª«îç¨ á ¯à¥ä¨ªá®¬ "-", ­ ¯à¨¬¥à: /-W.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOMBER 6
+
+
+Microsoft Windows [Version 10.0.22631.4037]
+(c) Š®à¯®à æ¨ï Œ ©ªà®á®äâ (Microsoft Corporation). ‚á¥ ¯à ¢  § é¨é¥­ë.
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>dir c:\windows /a:-ds >nomber5.txt
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>type nomber5.txt
+ ’®¬ ¢ ãáâà®©áâ¢¥ C ¨¬¥¥â ¬¥âªã Windows
+ ‘¥à¨©­ë© ­®¬¥à â®¬ : 365D-4E6E
+
+ ‘®¤¥à¦¨¬®¥ ¯ ¯ª¨ c:\windows
+
+20.09.2024  12:56            67ÿ584 bootstat.dat
+               1 ä ©«®¢         67ÿ584 ¡ ©â
+               0 ¯ ¯®ª  145ÿ127ÿ936ÿ000 ¡ ©â á¢®¡®¤­®
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOMBER 7
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>mkdir WinGrafika^Z
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë> xcopy c:\windows\*.bmp & xcopy c:\windows\*.jpeg & xcopy c:\windows\*.gif & xcopy c:\windows\*.png c:WinGrafika/s
+¥ ­ ©¤¥­ ä ©«: *.bmp
+‘ª®¯¨à®¢ ­® ä ©«®¢: 0.
+¥ ­ ©¤¥­ ä ©«: *.jpeg
+‘ª®¯¨à®¢ ­® ä ©«®¢: 0.
+¥ ­ ©¤¥­ ä ©«: *.gif
+‘ª®¯¨à®¢ ­® ä ©«®¢: 0.
+C:\windows\appcompat\UA\classicon_{4d36e972-e325-11ce-bfc1-08002be10318}.png
+C:\windows\appcompat\UA\GenericApp.png
+C:\windows\IdentityCRL\WLive48x48.png
+C:\windows\IME\IMEJP\Assets\JpnImeModeToast.png
+C:\windows\ImmersiveControlPanel\images\Apps.png
+C:\windows\ImmersiveControlPanel\images\AppsRtl.png
+C:\windows\ImmersiveControlPanel\images\Contact.png
+C:\windows\ImmersiveControlPanel\images\DefaultPinTile.png
+C:\windows\ImmersiveControlPanel\images\Devices.png
+C:\windows\ImmersiveControlPanel\images\EaseOfAccess.png
+C:\windows\ImmersiveControlPanel\images\Extras.png
+C:\windows\ImmersiveControlPanel\images\Gaming.png
+C:\windows\ImmersiveControlPanel\images\Globe.png
+C:\windows\ImmersiveControlPanel\images\Holographic.png
+C:\windows\ImmersiveControlPanel\images\Lock.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black_scale-100.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black_scale-125.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black_scale-150.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black_scale-200.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-black_scale-400.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white_scale-100.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white_scale-125.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white_scale-150.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white_scale-200.png
+C:\windows\ImmersiveControlPanel\images\logo.contrast-white_scale-400.png
+C:\windows\ImmersiveControlPanel\images\logo.png
+C:\windows\ImmersiveControlPanel\images\logo.scale-100.png
+C:\windows\ImmersiveControlPanel\images\logo.scale-125.png
+C:\windows\ImmersiveControlPanel\images\logo.scale-150.png
+C:\windows\ImmersiveControlPanel\images\logo.scale-200.png
+C:\windows\ImmersiveControlPanel\images\logo.scale-400.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-16_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-20_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-24_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-256_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-30_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-32_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-36_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-40_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-48_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-60_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-64_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-72_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-80_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96_altform-unplated.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96_altform-unplated_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96_altform-unplated_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96_contrast-black.png
+C:\windows\ImmersiveControlPanel\images\logo.targetsize-96_contrast-white.png
+C:\windows\ImmersiveControlPanel\images\Personalize.png
+C:\windows\ImmersiveControlPanel\images\phone.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black_scale-100.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black_scale-125.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black_scale-150.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black_scale-200.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-black_scale-400.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white_scale-100.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white_scale-125.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white_scale-150.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white_scale-200.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.contrast-white_scale-400.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.scale-100.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.scale-125.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.scale-150.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.scale-200.png
+C:\windows\ImmersiveControlPanel\images\splashscreen.scale-400.png
+C:\windows\ImmersiveControlPanel\images\Square71x71Logo.png
+C:\windows\ImmersiveControlPanel\images\System.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black_scale-100.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black_scale-125.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black_scale-150.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black_scale-200.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-black_scale-400.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white_scale-100.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white_scale-125.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white_scale-150.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white_scale-200.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.contrast-white_scale-400.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.scale-100.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.scale-125.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.scale-150.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.scale-200.png
+C:\windows\ImmersiveControlPanel\images\TileSmall.scale-400.png
+C:\windows\ImmersiveControlPanel\images\TimeLanguage.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black_scale-100.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black_scale-125.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black_scale-150.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black_scale-200.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-black_scale-400.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white_scale-100.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white_scale-125.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white_scale-150.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white_scale-200.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.contrast-white_scale-400.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.scale-100.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.scale-125.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.scale-150.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.scale-200.png
+C:\windows\ImmersiveControlPanel\images\TinyTile.scale-400.png
+C:\windows\ImmersiveControlPanel\images\UpdateRestore.png
+C:\windows\ImmersiveControlPanel\images\wide.Apps.png
+C:\windows\ImmersiveControlPanel\images\wide.AppsRtl.png
+C:\windows\ImmersiveControlPanel\images\wide.Contact.png
+C:\windows\ImmersiveControlPanel\images\wide.DefaultPinTile.png
+C:\windows\ImmersiveControlPanel\images\wide.Devices.png
+C:\windows\ImmersiveControlPanel\images\wide.EaseOfAccess.png
+C:\windows\ImmersiveControlPanel\images\wide.Extras.png
+C:\windows\ImmersiveControlPanel\images\wide.Gaming.png
+C:\windows\ImmersiveControlPanel\images\wide.Globe.png
+C:\windows\ImmersiveControlPanel\images\wide.Holographic.png
+C:\windows\ImmersiveControlPanel\images\wide.Lock.png
+C:\windows\ImmersiveControlPanel\images\wide.Personalize.png
+C:\windows\ImmersiveControlPanel\images\wide.phone.png
+C:\windows\ImmersiveControlPanel\images\wide.System.png
+C:\windows\ImmersiveControlPanel\images\wide.TimeLanguage.png
+C:\windows\ImmersiveControlPanel\images\wide.UpdateRestore.png
+C:\windows\PrintDialog\Assets\LockScreenLogo.scale-200.png
+C:\windows\PrintDialog\Assets\SplashScreen.scale-200.png
+C:\windows\PrintDialog\Assets\Square150x150Logo.scale-200.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-16.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-16_altform-lightunplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-16_altform-unplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-24.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-24_altform-lightunplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-256.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-256_altform-lightunplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-256_altform-unplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-32.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-32_altform-lightunplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-32_altform-unplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-48.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-48_altform-lightunplated.png
+C:\windows\PrintDialog\Assets\Square44x44Logo.targetsize-48_altform-unplated.png
+C:\windows\PrintDialog\Assets\StoreLogo.png
+C:\windows\PrintDialog\Assets\Wide310x150Logo.scale-200.png
+¥¤®áâ â®ç­® ¯ ¬ïâ¨
+‘ª®¯¨à®¢ ­® ä ©«®¢: 213.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOMBER 8
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë>mkdir WinEx
+
+C:\Users\sumak\OneDrive\ ¡®ç¨© áâ®«\à ¡®âë\WinEx>xcopy C:\Windows\*.exe C:WinEx
+—â® ®§­ ç ¥â C:WinEx:
+¨¬ï ä ©«  ¨«¨ ª â «®£ 
+(F = ä ©«, D = ª â «®£)? D
+C:\Windows\bfsvc.exe
+C:\Windows\explorer.exe
+C:\Windows\HelpPane.exe
+C:\Windows\hh.exe
+C:\Windows\notepad.exe
+C:\Windows\regedit.exe
+C:\Windows\splwow64.exe
+C:\Windows\winhlp32.exe
+C:\Windows\write.exe
+‘ª®¯¨à®¢ ­® ä ©«®¢: 9.
